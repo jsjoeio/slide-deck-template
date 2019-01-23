@@ -1,6 +1,6 @@
-# What is Gatsby.js? A Warm Introduction  
+# Slide Deck Template
 
-Slide deck for my presentation at [Sentry.io](https://sentry.io/) on January 11th, 2019. Built with [mdx-deck](https://github.com/jxnblk/mdx-deck).
+Built with [mdx-deck](https://github.com/jxnblk/mdx-deck).
 
 ## mdx-deck basic template
 
